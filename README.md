@@ -62,5 +62,6 @@ Ringkasan : mencari tahu tentang Konsep IaaS, Contoh Software IaaS, Getting Star
 Ringkasan :Mencari tentang drupal image dan menginstall drupal.
 
 13. Materi Praktikum 13 :  Docker Swar
+
         https://github.com/yogaks141298/tcc/tree/master/minggu-13
 Ringkasan : Memastikan daemon Engine dimulai pada mesin host, buka terminal dan ssh ke mesin tempat anda ingin menjalankan simpul manajer.
